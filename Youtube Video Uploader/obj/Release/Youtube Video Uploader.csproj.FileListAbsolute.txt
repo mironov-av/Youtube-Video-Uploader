@@ -1,0 +1,51 @@
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Youtube Video Uploader.exe.config
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Youtube Video Uploader.exe
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Youtube Video Uploader.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\obj\Release\Youtube Video Uploader.csprojAssemblyReference.cache
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\obj\Release\Youtube_Video_Uploader.Form1.resources
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\obj\Release\Youtube_Video_Uploader.Properties.Resources.resources
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\obj\Release\Youtube Video Uploader.csproj.GenerateResource.cache
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\obj\Release\Youtube Video Uploader.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\obj\Release\Youtube Video Uploader.exe
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\obj\Release\Youtube Video Uploader.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Api.Gax.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Api.Gax.Rest.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Auth.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Auth.PlatformServices.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Core.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Drive.v3.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Gmail.v1.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.PlatformServices.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Storage.v1.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.YouTube.v3.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Cloud.Storage.V1.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Newtonsoft.Json.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\System.Threading.Tasks.Extensions.dll
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Api.Gax.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Api.Gax.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Api.Gax.Rest.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Api.Gax.Rest.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Auth.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Auth.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Core.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Core.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Drive.v3.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Drive.v3.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Gmail.v1.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Gmail.v1.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Storage.v1.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.Storage.v1.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.YouTube.v3.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Apis.YouTube.v3.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Cloud.Storage.V1.pdb
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Google.Cloud.Storage.V1.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\Newtonsoft.Json.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\bin\Release\System.Threading.Tasks.Extensions.xml
+F:\Visual Studio 2019 Repos\Youtube Video Uploader\Youtube Video Uploader\obj\Release\Youtube Video Uploader.csproj.CopyComplete
